@@ -22,3 +22,4 @@ echo "sorry you passed the wrong option"
 echo "options are start | stop | restart | update ";;
 esac
 echo "switch cases are very good and easy to understand"
+# This is my example of switch case
