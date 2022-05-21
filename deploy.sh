@@ -5,3 +5,6 @@ java
 node js
 phython 5
 kube
+chi
+adaku
+ope
