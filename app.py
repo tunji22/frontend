@@ -7,6 +7,8 @@ print("chioma")
 print("bukola")
 print("chidi")
 print("kingsley")
+print("Olatunji")
+Print("Afanwi")
 
 
 
